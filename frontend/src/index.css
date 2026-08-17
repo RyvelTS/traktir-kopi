@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #3a606e;
+  --color-secondary: #aaae8e;
+  --color-surface: #e0e0e0;
+
+  --font-sans: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+}
